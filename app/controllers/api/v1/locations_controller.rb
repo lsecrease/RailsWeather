@@ -1,4 +1,4 @@
-class Api::V1::LocationController < ApiController
+class Api::V1::LocationsController < ApiController
  before_action :set_location   
     
 def show
